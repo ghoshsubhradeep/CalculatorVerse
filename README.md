@@ -24,7 +24,7 @@ using HTML, CSS, JavaScript with interactive UI.
   &nbsp;&nbsp;Implements scientific calculator functionalities and lots of scientific functions.
 - ### Currency_calculator.html :
   &nbsp;&nbsp;Converts one currency into another using real time rate
-- ### kk.js -
+- ### kk.js :
   &nbsp;&nbsp;For making backend calculations for currency conversion.
 - ### Calculatorverse.png :
   &nbsp;&nbsp;An image descriptiong my project
