@@ -12,11 +12,19 @@ using HTML, CSS, JavaScript with interactive UI.
 
 ## Files' Descriptions =>
 
-- intro.html : Gives a brief introduction about what the website for.
-- list.html : Creates a list of different types of calculator with hyperlinks.
-- index.html : Main Page that incorporates above two pages in a single windowm but in two frames.
-- Simple_calculator.html : Implements simple basic calculator functionalities.
-- Scientific_calculator.html : Implements scientific calculator functionalities and lots of scientific functions.
-- Currency_calculator.html : Converts one currency into another using real time rate
-- kk.js - For making backend calculations for currency conversion.
-- Calculatorverse.png : An image descriptiong my project
+- ### intro.html :
+  &nbsp;&nbsp;Gives a brief introduction about what the website for.
+- ### list.html :
+  &nbsp;&nbsp;Creates a list of different types of calculator with hyperlinks.
+- ### index.html :
+  &nbsp;&nbsp;Main Page that incorporates above two pages in a single windowm but in two frames.
+- ### Simple_calculator.html :
+  &nbsp;&nbsp;Implements simple basic calculator functionalities.
+- ### Scientific_calculator.html :
+  &nbsp;&nbsp;Implements scientific calculator functionalities and lots of scientific functions.
+- ### Currency_calculator.html :
+  &nbsp;&nbsp;Converts one currency into another using real time rate
+- ### kk.js -
+  &nbsp;&nbsp;For making backend calculations for currency conversion.
+- ### Calculatorverse.png :
+  &nbsp;&nbsp;An image descriptiong my project
