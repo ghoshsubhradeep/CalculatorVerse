@@ -2,7 +2,7 @@
 ![calcu](https://user-images.githubusercontent.com/83386252/235146568-4b18ef05-0fbd-410e-a2e0-87b7b87ae5bd.png)
 
 
-## This website comes with three types of calculator.i.e.
+## This website comes with three types of calculator .i.e.
 
 - Simple Calculator
 - Scientific Calculator
